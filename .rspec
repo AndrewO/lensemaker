@@ -1,0 +1,4 @@
+--color
+--require generative
+--format GenerativeProgress
+--tag generative
